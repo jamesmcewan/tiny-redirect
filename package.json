@@ -1,0 +1,9 @@
+{
+  "name": "@jamesmcewan/tiny-redirect",
+  "version": "1.0.0",
+  "description": "Redirect on now.sh",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
