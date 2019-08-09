@@ -3,5 +3,13 @@
   "builds": [{ "src": "index.js", "use": "@now/node" }],
   "env": {
     "REDIRECT_TO": "@tiny_redirect_url"
-  }
+  },
+  "alias": [
+    "www.jamesmcewan.com",
+    "jamesmcewan.com",
+    "jamesmcewan.net",
+    "www.jamesmcewan.net",
+    "www.jmce.me",
+    "jmce.me"
+  ]
 }
